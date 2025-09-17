@@ -27,3 +27,7 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+HTML and CSS usage.
+I started developing this project in VS code, and I recommend using the Live Server extension to view it in that. 
+I had to switch over to intelliJ after a software update broke vscode, and for IntelliJ you can simply right-click on the
+index.html file and select "Open in Browser" to view it.
